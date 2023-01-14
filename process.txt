@@ -1,0 +1,3 @@
+Show
+Spend
+Load in2.txt
